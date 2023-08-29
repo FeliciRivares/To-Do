@@ -1,0 +1,15 @@
+PATCH    http://localhost:3000/todos/3
+content-type: application/json
+
+{
+  "id": 3,
+  "description": "First todo description",
+  "todo": "First todo",
+  "isCompleted": true
+}
+
+# {
+# "todo":"Edit 2",
+# "description":"Todo edit",
+# "isCompleted":true
+# }
